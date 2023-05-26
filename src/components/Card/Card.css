@@ -1,0 +1,14 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    color: white;
+    background: #838282;
+    padding: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: min(100%, 180px);
+    height: 135px;
+    font-weight: 600;
+    font-size: 36px;
+}
